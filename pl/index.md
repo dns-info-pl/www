@@ -3,8 +3,12 @@ title: Welcome
 order: 0
 ---
 
-# FreeDomain.pl dns.info.pl documentation
+# WolnaDomena.pl
 
-FreeDomain.pl dns.info.pl will only ever charge you what we pay to the registry for your domain. No markup. No surprise fees.
+rejestracja i utrzymanie domeny w WolnaDomena.pl obejmuje tylko rzeczywiste koszty:
++ 0 dodatkowych opłat i marż
++ domena jest wolna od specjalnych umów
++ wolny od opłat transfer do nas transfer do innego rejestratora
++ koszt domen = koszt bezpośrednio w NASK  
 
 ![dns.info.pl Logo](./static/dns.info.pl-color-logo.png)
