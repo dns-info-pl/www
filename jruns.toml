@@ -1,0 +1,16 @@
+name = "dns.info.pl"
+type = "webpack"
+account_id = "" # softreck-docs.faas.ovh
+workers_dev = true
+kv-namespaces = [{ binding = "REDIRECTS", id = "", preview_id = "" }]
+
+[env.production]
+workers_dev = false
+account_id = ""
+zone_id = ""
+route = "https://developers.softreck.com/dns.info.pl*"
+kv-namespaces = [{ binding = "REDIRECTS", id = "", preview_id = "" }]
+
+[site]
+bucket = ".docs/public/"
+entry-point = ".docs/workers-site"

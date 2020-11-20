@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "dependencies": {
+    "softreck-docs-engine": "git+https://github.com/softreck/softreck-docs-engine.git"
+  },
+  "scripts": {
+    "bootstrap": "node_modules/softreck-docs-engine/bin/commands.sh bootstrap",
+    "build": "node_modules/softreck-docs-engine/bin/commands.sh build",
+    "develop": "node_modules/softreck-docs-engine/bin/commands.sh develop",
+    "ghactionsbootstrap": "node_modules/softreck-docs-engine/bin/commands.sh ghactionsbootstrap",
+    "savechanges": "node_modules/softreck-docs-engine/bin/commands.sh savechanges",
+    "serve": "node_modules/softreck-docs-engine/bin/commands.sh serve"
+  }
+}
