@@ -21,9 +21,12 @@
 https://siriuspro.pl/rejestracja-zakup-domeny-internetowej
 
 
-# Tokenizajca domen internetowych
+# Tokenizacja domen internetowych
 
 domain-name-tokenization
 
 
 https://www.namepros.com/threads/domain-name-tokenization.1172546/
+
+
+https://blog.stomarket.com/week-5-tokenized-website-domains-fd20f85c3ea8
