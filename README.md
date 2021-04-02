@@ -1,3 +1,5 @@
+![dns.info.pl/](https://logo.dns.info.pl/1/cover.png)
+
 # [WebPage www.dns.info.pl](https://www.dns.info.pl)
 ## Polski [pl](/pl)
 ## English [en](/en)
