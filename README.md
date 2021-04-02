@@ -17,3 +17,11 @@
 ## Articles
 
 https://siriuspro.pl/rejestracja-zakup-domeny-internetowej
+
+
+# Tokenizajca domen internetowych
+
+domain-name-tokenization
+
+
+https://www.namepros.com/threads/domain-name-tokenization.1172546/
