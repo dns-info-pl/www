@@ -2,8 +2,9 @@
 
 # [WebPage www.dns.info.pl](https://www.dns.info.pl)
 
-git
-https://github.com/dns-info-pl/www.git
+
+Internety zaczyna sie od DNS-u...
+
 
 ## Polski [pl](/pl)
 ## English [en](/en)
@@ -34,3 +35,11 @@ https://www.namepros.com/threads/domain-name-tokenization.1172546/
 
 
 https://blog.stomarket.com/week-5-tokenized-website-domains-fd20f85c3ea8
+
+---
++ [edit](https://github.com/dns-info-pl/www/edit/main/README.md)
+
+```
+https://github.com/dns-info-pl/www.git
+```
+
